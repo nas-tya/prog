@@ -82,8 +82,8 @@ README: [ссылка](https://github.com/nas-tya/prog/blob/main/sr/prog5-sr/REA
 
 #### Самостоятельные работы
 
-ИСР: 
+ИСР: [ссылка](https://github.com/nas-tya/prog/tree/main/sr/prog6-sr/isr)
 
-ВСР: 
+ВСР: [ссылка](https://github.com/nas-tya/prog/tree/main/sr/prog6-sr/vsr)
 
-README: 
+README: [ссылка](https://github.com/nas-tya/prog/blob/main/sr/prog6-sr/README.md)
