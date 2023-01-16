@@ -105,7 +105,9 @@ README: [ссылка](https://github.com/nas-tya/prog/blob/main/sr/prog6-sr/REA
 ЛР 6 (Обработка текста (наташа, облаго слов)): [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7_lr6.py)
 
 ЛР 7 (Счётчик (Flask) в Docker): [ссылка](https://github.com/nas-tya/prog/tree/main/lr/sem7/sem7-lr7)
+
 Докерхаб: [ссылка](https://hub.docker.com/r/brazhkinanastya/prog7lr7/tags)
 
 ЛР 8 (Развитие ЛР 7): [ссылка](https://github.com/nas-tya/prog/tree/main/lr/sem7/sem7-lr8)
+
 Докерхаб: [ссылка](https://hub.docker.com/r/brazhkinanastya/sem7lr8/tags)
