@@ -87,3 +87,25 @@ README: [ссылка](https://github.com/nas-tya/prog/blob/main/sr/prog5-sr/REA
 ВСР: [ссылка](https://github.com/nas-tya/prog/tree/main/sr/prog6-sr/vsr)
 
 README: [ссылка](https://github.com/nas-tya/prog/blob/main/sr/prog6-sr/README.md)
+
+### 7 семестр
+
+#### Лабораторные работы
+
+ЛР 1: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr1/main.py)
+
+ЛР 2: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr2/main.py)
+
+ЛР 3: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr3-cython/main.py)
+
+ЛР 4: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7_lr4.py)
+
+ЛР 5: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr5-nltk/main.py)
+
+ЛР 6: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7_lr6.py)
+
+ЛР 7: [ссылка](https://github.com/nas-tya/prog/tree/main/lr/sem7/sem7-lr7)
+Докерхаб: [ссылка](https://hub.docker.com/r/brazhkinanastya/prog7lr7/tags)
+
+ЛР 8: [ссылка](https://github.com/nas-tya/prog/tree/main/lr/sem7/sem7-lr8)
+Докерхаб: [ссылка](https://hub.docker.com/r/brazhkinanastya/sem7lr8/tags)
