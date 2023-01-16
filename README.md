@@ -92,20 +92,20 @@ README: [ссылка](https://github.com/nas-tya/prog/blob/main/sr/prog6-sr/REA
 
 #### Лабораторные работы
 
-ЛР 1: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr1/main.py)
+ЛР 1 (Численное интегрирование): [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr1/main.py)
 
-ЛР 2: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr2/main.py)
+ЛР 2 (Оптимизация численного интегрирования): [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr2/main.py)
 
-ЛР 3: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr3-cython/main.py)
+ЛР 3 (Численное интегрирование: Cython, потоки, joblib): [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr3-cython/main.py)
 
-ЛР 4: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7_lr4.py)
+ЛР 4 (Парсинг сайта университета): [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7_lr4.py)
 
-ЛР 5: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr5-nltk/main.py)
+ЛР 5 (Обработка текста (NLTK)): [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr5-nltk/main.py)
 
-ЛР 6: [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7_lr6.py)
+ЛР 6 (Обработка текста (наташа, облаго слов)): [ссылка](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7_lr6.py)
 
-ЛР 7: [ссылка](https://github.com/nas-tya/prog/tree/main/lr/sem7/sem7-lr7)
+ЛР 7 (Счётчик (Flask) в Docker): [ссылка](https://github.com/nas-tya/prog/tree/main/lr/sem7/sem7-lr7)
 Докерхаб: [ссылка](https://hub.docker.com/r/brazhkinanastya/prog7lr7/tags)
 
-ЛР 8: [ссылка](https://github.com/nas-tya/prog/tree/main/lr/sem7/sem7-lr8)
+ЛР 8 (Развитие ЛР 7): [ссылка](https://github.com/nas-tya/prog/tree/main/lr/sem7/sem7-lr8)
 Докерхаб: [ссылка](https://hub.docker.com/r/brazhkinanastya/sem7lr8/tags)
