@@ -3,7 +3,9 @@
 Создаём томы 
 
 ![1](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr8/1.png)
+
 ![2](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr8/2.png)
+
 ![3](https://github.com/nas-tya/prog/blob/main/lr/sem7/sem7-lr8/3.png)
 
 
