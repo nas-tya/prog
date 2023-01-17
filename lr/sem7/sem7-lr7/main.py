@@ -6,7 +6,6 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    """Дополнить возврат в html значение счетчика (счетчик инициализируется в момент запуска приложения"""
     name = os.getenv("NAME", 'world')
     hostname = socket.gethostname()
 
